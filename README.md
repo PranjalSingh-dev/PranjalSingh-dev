@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=PranjalSingh-dev&color=blue)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Backend+Developer;DSA+Learner;Open+Source+Enthusiast&center=true&width=500&height=50)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Pranjal Singh</h1>
 <h3 align="center">BCA AI & DS Student | Web Developer | DSA Learner</h3>
 
@@ -31,11 +33,19 @@ Python
 
 Custom database engine implementing ACID principles.
 ## 🌐 Connect With Me
+<p align="center">
+  <a href="www.linkedin.com/in/pranjal-singh-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
 
-[LinkedIn](www.linkedin.com/in/pranjal-singh-dev)
-[LeetCode](https://leetcode.com/u/Pranjasinghl13/)
-[GitHub](https://github.com/PranjalSingh-dev)
+  <a href="https://leetcode.com/u/Pranjasinghl13/">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode">
+  </a>
 
+  <a href="https://github.com/PranjalSingh-dev">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+  </a>
+</p>
 ## 💻 Tech Stack
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge)
