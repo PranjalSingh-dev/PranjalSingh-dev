@@ -89,6 +89,9 @@ Custom database engine implementing ACID principles.
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PranjalSingh-dev&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PranjalSingh-dev&layout=compact&theme=tokyonight)
+## 📈 Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PranjalSingh-dev&theme=tokyo-night)
 
 ---
 
