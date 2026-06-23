@@ -1,9 +1,16 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Web+Developer|Backend+Developer|DSA+Learner|Open+Source+Enthusiast" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=PranjalSingh-dev&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Backend+Developer;DSA+Learner;Open+Source+Enthusiast&center=true&width=500&height=50)](https://git.io/typing-svg)
+
+<h3 align="center">
+🚀 Web Developer • Backend Developer • DSA Learner • Open Source Enthusiast
+</h3>
+
 <h1 align="center">Hi 👋, I'm Pranjal Singh</h1>
+
 <h3 align="center">BCA AI & DS Student | Web Developer | DSA Learner</h3>
+
+---
 
 ## 🚀 About Me
 
@@ -12,32 +19,37 @@
 - 🌱 Currently working on LMS and AgriConnect
 - 🔥 Interested in Backend Development
 - 📫 Reach me: ppranjalsingh13@gmail.com
-- 
+
+---
 
 ## 🚀 Featured Projects
 
 ### 📚 Smart Learning Platform
-Node.js • Express.js • MongoDB • JWT
+**Node.js • Express.js • MongoDB • JWT**
 
 Learning Management System with authentication, courses and progress tracking.
 
 ### 🌾 AgriConnect
-React • Node.js • PostgreSQL
+**React • Node.js • PostgreSQL**
 
 Platform connecting farmers and buyers.
 
 ### 💰 Price Comparison Pro
-React • Flask • SQLite
+**React • Flask • SQLite**
 
 Compare product prices from multiple sources.
 
 ### 🗄️ StructDB
-Python
+**Python**
 
 Custom database engine implementing ACID principles.
+
+---
+
 ## 🌐 Connect With Me
+
 <p align="center">
-  <a href="www.linkedin.com/in/pranjal-singh-dev">
+  <a href="https://www.linkedin.com/in/pranjal-singh-dev">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
 
@@ -49,18 +61,27 @@ Custom database engine implementing ACID principles.
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
   </a>
 </p>
+
+---
+
 ## 💻 Tech Stack
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/PranjalSingh-dev/PranjalSingh-dev/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 📊 GitHub Stats
 
 ![Pranjal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PranjalSingh-dev&show_icons=true&theme=tokyonight)
@@ -68,3 +89,9 @@ Custom database engine implementing ACID principles.
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PranjalSingh-dev&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PranjalSingh-dev&layout=compact&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=PranjalSingh-dev&theme=tokyonight&row=1&column=6)
