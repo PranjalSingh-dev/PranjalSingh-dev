@@ -1,4 +1,6 @@
-![](https://komarev.com/ghpvc/?username=PranjalSingh-dev&color=blue)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=PranjalSingh-dev&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Backend+Developer;DSA+Learner;Open+Source+Enthusiast&center=true&width=500&height=50)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Pranjal Singh</h1>
 <h3 align="center">BCA AI & DS Student | Web Developer | DSA Learner</h3>
@@ -10,7 +12,10 @@
 - 🌱 Currently working on LMS and AgriConnect
 - 🔥 Interested in Backend Development
 - 📫 Reach me: ppranjalsingh13@gmail.com
-
+- 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PranjalSingh-dev&theme=tokyonight&row=1&column=6" />
+</p>
 ## 🚀 Featured Projects
 
 ### 📚 Smart Learning Platform
