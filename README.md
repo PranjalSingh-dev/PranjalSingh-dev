@@ -45,7 +45,9 @@ Custom database engine implementing ACID principles.
 ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge)
+## 🐍 Contribution Snake
 
+![Snake animation](https://raw.githubusercontent.com/PranjalSingh-dev/PranjalSingh-dev/output/github-contribution-grid-snake.svg)
 ## 📊 GitHub Stats
 
 ![Pranjal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PranjalSingh-dev&show_icons=true&theme=tokyonight)
