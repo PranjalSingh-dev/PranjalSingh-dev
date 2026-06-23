@@ -7,7 +7,7 @@
 - 💻 Learning DSA and Full Stack Development
 - 🌱 Currently working on LMS and AgriConnect
 - 🔥 Interested in Backend Development
-- 📫 Reach me: your-email@example.com
+- 📫 Reach me: your-ppranjalsingh13@gmail.com
 
 ## 🚀 Featured Projects
 
