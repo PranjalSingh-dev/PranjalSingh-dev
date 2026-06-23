@@ -1,5 +1,5 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=PranjalSingh-dev&label=Profile%20Views&color=0e75b6&style=flat" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Web+Developer|Backend+Developer|DSA+Learner|Open+Source+Enthusiast" />
 </p>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Backend+Developer;DSA+Learner;Open+Source+Enthusiast&center=true&width=500&height=50)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Pranjal Singh</h1>
@@ -13,9 +13,7 @@
 - 🔥 Interested in Backend Development
 - 📫 Reach me: ppranjalsingh13@gmail.com
 - 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PranjalSingh-dev&theme=tokyonight&row=1&column=6" />
-</p>
+
 ## 🚀 Featured Projects
 
 ### 📚 Smart Learning Platform
