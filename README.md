@@ -97,6 +97,4 @@ Custom database engine implementing ACID principles.
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PranjalSingh-dev&theme=algolia&no-frame=true&margin-w=15" />
-</p>
+![Trophies](https://github-profile-trophy.vercel.app/?username=PranjalSingh-dev&theme=tokyonight&row=1&column=6)
